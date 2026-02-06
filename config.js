@@ -13,8 +13,8 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: [],  // Heart emojis
+        bears: []                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -41,9 +41,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW you're lying",  // Shows when they go past 5000%
+        high: "REALLY BUBU ???",              // Shows when they go past 1000%
+        normal: "ARE YOU SURE BUBU ?"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
