@@ -185,7 +185,6 @@ function celebrate() {
     document.getElementById('celebrationEmojis').textContent = config.celebration.emojis;
     
     // Create heart explosion effect
-    createHeartExplosion();
 }
 
 // Create heart explosion animation
